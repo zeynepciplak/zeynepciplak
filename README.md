@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Zeynep Cıplak</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **W-TDARK**
+
 
 - 🌱 I’m currently learning **redux**
 
